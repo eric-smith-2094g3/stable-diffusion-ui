@@ -8,3 +8,5 @@ prompts from the terminal and grab outputs when they're done.
 
 pip install -r requirements.txt
 
+
+<!-- last-checked: 2026-10-04 -->
