@@ -9,4 +9,4 @@ prompts from the terminal and grab outputs when they're done.
 pip install -r requirements.txt
 
 
-<!-- last-checked: 2026-11-04 -->
+<!-- last-checked: 2026-11-05 -->
